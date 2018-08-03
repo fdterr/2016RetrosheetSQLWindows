@@ -1,3 +1,5 @@
+C:\Retrosheet\common\programs\cwgame -f 0-83 -y 2017 2017*.ev* > C:\Retrosheet\data\parsed\games2017.csv
+C:\Retrosheet\common\programs\cwgame -f 0-83 -y 2016 2016*.ev* > C:\Retrosheet\data\parsed\games2016.csv
 C:\Retrosheet\common\programs\cwgame -f 0-83 -y 2015 2015*.ev* > C:\Retrosheet\data\parsed\games2015.csv
 C:\Retrosheet\common\programs\cwgame -f 0-83 -y 2014 2014*.ev* > C:\Retrosheet\data\parsed\games2014.csv
 C:\Retrosheet\common\programs\cwgame -f 0-83 -y 2013 2013*.ev* > C:\Retrosheet\data\parsed\games2013.csv

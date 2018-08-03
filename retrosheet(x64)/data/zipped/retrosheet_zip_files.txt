@@ -67,3 +67,5 @@ http://www.retrosheet.org/events/2013eve.zip
 
 http://www.retrosheet.org/events/2014eve.zip
 http://www.retrosheet.org/events/2015eve.zip
+http://www.retrosheet.org/events/2016eve.zip
+http://www.retrosheet.org/events/2017eve.zip

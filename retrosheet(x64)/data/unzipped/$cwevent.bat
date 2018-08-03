@@ -1,3 +1,5 @@
+C:\Retrosheet\common\programs\cwevent -f 0-96 -x 0-60 -y 2017 2017*.ev* > C:\Retrosheet\data\parsed\all2017.csv
+C:\Retrosheet\common\programs\cwevent -f 0-96 -x 0-60 -y 2016 2016*.ev* > C:\Retrosheet\data\parsed\all2016.csv
 C:\Retrosheet\common\programs\cwevent -f 0-96 -x 0-60 -y 2015 2015*.ev* > C:\Retrosheet\data\parsed\all2015.csv
 C:\Retrosheet\common\programs\cwevent -f 0-96 -x 0-60 -y 2014 2014*.ev* > C:\Retrosheet\data\parsed\all2014.csv
 C:\Retrosheet\common\programs\cwevent -f 0-96 -x 0-60 -y 2013 2013*.ev* > C:\Retrosheet\data\parsed\all2013.csv
